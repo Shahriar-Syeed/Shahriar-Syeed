@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shahriar Syeed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriar-syeed" alt="shahriar-syeed" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, Typescript**
 
 - 👨‍💻 All of my projects are available at [html//www.shahriar.syeed/profile.com](html//www.shahriar.syeed/profile.com)
