@@ -62,8 +62,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-syeed&show_icons=true&locale=en&layout=compact" alt="shahriar-syeed" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-syeed&show_icons=true&locale=en&layout=compact" alt="shahriar-syeed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriar-syeed&show_icons=true&locale=en" alt="shahriar-syeed" /></p>
+<p aliign="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriar-syeed&show_icons=true&locale=en" alt="shahriar-syeed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-syeed&" alt="shahriar-syeed" /></p>
