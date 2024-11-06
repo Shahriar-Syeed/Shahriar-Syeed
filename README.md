@@ -47,8 +47,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/util/preview?image=/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
   </a>  
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
