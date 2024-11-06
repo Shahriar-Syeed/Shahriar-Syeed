@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shahriar Syeed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **JavaScript, Typescript**
+- 🌱 I’m currently learning **JavaScript, React, React-redux**
 
 - 👨‍💻 All of my projects are available at [html//www.shahriar.syeed/profile.com](html//www.shahriar.syeed/profile.com)
 
